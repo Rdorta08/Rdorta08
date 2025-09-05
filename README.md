@@ -1,5 +1,4 @@
 ## Hi there 👋
-This is my first repository... Be nice! 😄
 <!--
 **Rdorta08/Rdorta08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
