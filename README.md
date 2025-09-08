@@ -3,7 +3,15 @@
 I’m curious about how **data** and **Machine Learning** can be used to solve meaningful problems.  
 Most of my projects focus on exploring data, building models, and finding practical applications. 
 
----
+## 🚀 Main Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -31,7 +39,6 @@ Most of my projects focus on exploring data, building models, and finding practi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="VS Code"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab"/>
 </p>
----
 
 ## 🚀 Featured Projects
 -- 🎓 [Final Project – Time Series / Decision Tree](https://github.com/Rdorta08/Lume-predict--Proyecto-fin-de-curso):  
@@ -39,13 +46,11 @@ Most of my projects focus on exploring data, building models, and finding practi
   - 📊 [Exploratory Data Analysis (EDA)](https://github.com/Rdorta08/machine-learning-python-template_RDH)):  
   Comprehensive analysis of a dataset, including **data cleaning, visualization, and statistical insights** to identify key patterns and correlations prior to modeling.
 
----
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdorta08&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdorta08&layout=compact&theme=tokyonight)
 
----
 
 ## 🌎 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radharani-dorta)  
