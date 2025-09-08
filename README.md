@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Radha — a biologist diving into the mysterious universe of data and algorithms.
+# 👋 Hi, I'm Radha 
+## a biologist diving into the mysterious universe of data and algorithms.
 
 I’m curious about how **data** and **Machine Learning** can be used to solve meaningful problems.  
 Most of my projects focus on exploring data, building models, and finding practical applications. 
