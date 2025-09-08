@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Radha!
+# 👋 Hi, I'm Radha — a biologist diving into the mysterious universe of data and algorithms.
 
 I’m curious about how **data** and **Machine Learning** can be used to solve meaningful problems.  
 Most of my projects focus on exploring data, building models, and finding practical applications. 
@@ -55,3 +55,5 @@ Most of my projects focus on exploring data, building models, and finding practi
 ## 🌎 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radharani-dorta)  
 📧 rdorta08@gmail.com
+
+![Profile views](https://komarev.com/ghpvc/?username=Rdorta08&label=Profile%20views&color=0e75b6&style=flat)
