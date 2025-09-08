@@ -42,8 +42,8 @@ Most of my projects focus on exploring data, building models, and finding practi
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdorta08&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdorta08&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdorta08&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdorta08&layout=compact&theme=tokyonight)
 
 ---
 
