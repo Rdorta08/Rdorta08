@@ -27,11 +27,10 @@ Most of my projects focus on exploring data, building models, and finding practi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
   
   <!-- Machine Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg?sanitize=true" height="30" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.png" height="30" alt="Scikit-learn"/>
-
+  
   <!-- Visualization -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="Seaborn"/>
