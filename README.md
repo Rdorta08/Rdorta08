@@ -4,7 +4,11 @@
 I’m curious about how **data** and **Machine Learning** can be used to solve meaningful problems.  
 Most of my projects focus on exploring data, building models, and finding practical applications. 
 
-## 🚀 Main Tech Stack
+## 🌎 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radharani-dorta)  
+📧 rdorta08@gmail.com
+
+## Main Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -13,7 +17,7 @@ Most of my projects focus on exploring data, building models, and finding practi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=for-the-badge&logo=seaborn&logoColor=white)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 <p align="left">
   <!-- Programming & Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
@@ -26,7 +30,7 @@ Most of my projects focus on exploring data, building models, and finding practi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn (alt)"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="30" alt="Scikit-learn"/>
 
   <!-- Visualization -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" alt="Matplotlib"/>
@@ -40,8 +44,8 @@ Most of my projects focus on exploring data, building models, and finding practi
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab"/>
 </p>
 
-## 🚀 Featured Projects
--- 🎓 [Final Project – Time Series / Decision Tree](https://github.com/Rdorta08/Lume-predict--Proyecto-fin-de-curso):  
+## Featured Projects
+  - 🎓 [Final Project – Time Series / Decision Tree](https://github.com/Rdorta08/Lume-predict--Proyecto-fin-de-curso):  
   End-to-end Machine Learning pipeline using **Random Forest** and **XGBoost**, applied to a real-world dataset for predictive modeling. Includes data preprocessing, feature engineering, model training, and evaluation. 
   - 📊 [Exploratory Data Analysis (EDA)](https://github.com/Rdorta08/machine-learning-python-template_RDH)):  
   Comprehensive analysis of a dataset, including **data cleaning, visualization, and statistical insights** to identify key patterns and correlations prior to modeling.
@@ -51,9 +55,5 @@ Most of my projects focus on exploring data, building models, and finding practi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdorta08&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdorta08&layout=compact&theme=tokyonight)
 
-
-## 🌎 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radharani-dorta)  
-📧 rdorta08@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rdorta08&label=Profile%20views&color=0e75b6&style=flat)
