@@ -6,7 +6,7 @@ Most of my projects focus on exploring data, building models, and finding practi
 
 ## 🌎 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radharani-dorta)  
-📧 rdorta08@gmail.com
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdorta08@gmail.com)
 
 ## Main Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
