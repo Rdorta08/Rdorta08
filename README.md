@@ -50,7 +50,7 @@ Most of my projects focus on exploring data, building models, and finding practi
 ## Featured Projects
   - 🎓 [Final Project – Time Series / Decision Tree](https://github.com/Rdorta08/Lume-predict--Proyecto-fin-de-curso):  
   End-to-end Machine Learning pipeline using **Random Forest** and **XGBoost**, applied to a real-world dataset for predictive modeling. Includes data preprocessing, feature engineering, model training, and evaluation. 
-  - 📊 [Exploratory Data Analysis (EDA)](https://github.com/Rdorta08/machine-learning-python-template_RDH)):  
+  - 📊 [Exploratory Data Analysis (EDA)](https://github.com/Rdorta08/machine-learning-python-template_RDH):  
   Comprehensive analysis of a dataset, including **data cleaning, visualization, and statistical insights** to identify key patterns and correlations prior to modeling.
 
 
