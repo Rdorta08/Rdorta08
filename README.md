@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Radha 
+## Hi, I'm Radha 
 ## A biologist exploring the hidden patterns in the world of data
 
 I’m curious about how **data** and **Machine Learning** can be used to solve meaningful problems.  
@@ -20,32 +20,6 @@ Most of my projects focus on exploring data, building models, and finding practi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## Technologies & Tools
-<p align="left">
-  <!-- Programming & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
-  
-  <!-- Machine Learning -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg?sanitize=true" height="30" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
-  
-  <!-- Visualization -->
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="Seaborn"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="30" alt="Streamlit" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="VS Code"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab"/>
-</p>
 
 ## Featured Projects
   - 🎓 [Final Project – Time Series / Decision Tree](https://github.com/Rdorta08/Lume-predict--Proyecto-fin-de-curso):  
